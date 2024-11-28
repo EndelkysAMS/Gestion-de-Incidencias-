@@ -2,7 +2,7 @@
 
 **Desarrollado por:** Endelkys Matos  
 **Materia:** Sistemas Operativos I  
-**Carrera:** Ingeniería en Computación, 7° Trimestre  
+**Carrera:** Ingeniería de Computación, 7° Trimestre  
 **Profesora:** Caryuly Rosales  
 
 ---
